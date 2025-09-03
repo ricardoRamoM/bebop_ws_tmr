@@ -1,0 +1,19 @@
+# Ignorar artefactos de compilación
+build/
+devel/
+install/
+logs/
+
+# Ignorar herramientas catkin
+.catkin_tools/
+
+# Archivos temporales de Python
+*.pyc
+__pycache__/
+
+# Archivos de editor
+*.swp
+*.vscode/
+
+# Otros temporales
+*.tmp
