@@ -13,6 +13,8 @@ Se puede tenr un boton para activar el despegue y el aterrizaje, sin embargo, la
 
 Se pueden usar un máximo 3 drones a la vez. Cada dron debe de pesar máximo 300 gramos, si alguno pesa más solo se permite usar 1.
 
+Se puede usar más de un dron pero se usa solo uno a la vez durante cada misión.
+
 Un piloto de seguridad deberá actuar en caso de emergencia y activar el aterrizaje de emergencia con la tecla "  ".
 
 Las baterías no utilizadas deberán almacenarse en bolsas de seguridad adecuadas y
