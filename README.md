@@ -4,8 +4,7 @@
 [![Ubuntu 20.04](https://img.shields.io/badge/Ubuntu-20.04-orange.svg)](https://releases.ubuntu.com/20.04/)
 [![Python 3](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-Este repositorio contiene un **workspace ROS Noetic** con paquetes para controlar un dron **Parrot Bebop 2** mediante ROS.
-Incluye instalación desde cero, configuración del entorno, comandos básicos de vuelo y ejemplos de Python.
+Firstly, we need to prepare our enviroment to be able to use the Drone Parrot Bebop 2 by following the steps in this [repository](https://github.com/ricardoRamoM/bebop_ws).
 
 
 ---
