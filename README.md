@@ -25,6 +25,9 @@ PENDIENTES
 - Revisar la duración de las baterías.
 - Probar la distancia máxima a la que el dron pierde la conexion con la Laptop. Y en dado caso de requerirlo intenta usar un modem externo y volver a hacer la prueba de distancia.
 - Entrenar las redes neuronales para las ventanas azules, las verdes y las rojas.
+- Revisar cómo cambiar el aterrizaje para que apague los motores más abajo de lo normal (aprox 1 metro)
+- Juntar la red entrenada por Sam e integrarla para usarla con el aterrizaje.
+- Entrenar evitar los tubis naranjas (puede ser con una red entrenada.
 
 ---
 
