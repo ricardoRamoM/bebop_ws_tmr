@@ -4,8 +4,27 @@
 [![Ubuntu 20.04](https://img.shields.io/badge/Ubuntu-20.04-orange.svg)](https://releases.ubuntu.com/20.04/)
 [![Python 3](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-Firstly, we need to prepare our enviroment to be able to use the Drone Parrot Bebop 2 by following the steps in this [repository](https://github.com/ricardoRamoM/bebop_ws).
+Firstly, we need to prepare our enviroment to be able to use the 
+Drone Parrot Bebop 2 by following the steps in this [repository](https://github.com/ricardoRamoM/bebop_ws).
 
+Primero que nada se necesita preparar el entorno de trabajo para controlar el Dron Bebop Parrot 2 para controlarlo con ROS 1 Noetic desde la versión de Ubuntu 20.04, esto se puede hacer siguiendo los pasos descritos en este [repositorio](https://github.com/ricardoRamoM/bebop_ws).
+
+Se puede tenr un boton para activar el despegue y el aterrizaje, sin embargo, la ejecución de los movimientos son de forma autónoma. 
+
+Se pueden usar un máximo 3 drones a la vez. Cada dron debe de pesar máximo 300 gramos, si alguno pesa más solo se permite usar 1.
+
+Un piloto de seguridad deberá actuar en caso de emergencia y activar el aterrizaje de emergencia con la tecla "  ".
+
+Las baterías no utilizadas deberán almacenarse en bolsas de seguridad adecuadas y
+cargarse únicamente en la estación designada.
+
+Las misiones se ejecutarán una a la vez. 
+
+PENDIENTES
+
+- Revisar la duración de las baterías.
+- Probar la distancia máxima a la que el dron pierde la conexion con la Laptop. Y en dado caso de requerirlo intenta usar un modem externo y volver a hacer la prueba de distancia.
+- Entrenar las redes neuronales para las ventanas azules, las verdes y las rojas.
 
 ---
 
