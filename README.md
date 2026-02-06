@@ -22,6 +22,10 @@ cargarse únicamente en la estación designada.
 
 Las misiones se ejecutarán una a la vez. 
 
+Se tendrá un aproximado entre 15 y 20 minutos para completar tantas misiones como sea posible.
+
+No habrá humo de la mision 4.
+
 PENDIENTES
 
 - Revisar la duración de las baterías.
@@ -29,7 +33,12 @@ PENDIENTES
 - Entrenar las redes neuronales para las ventanas azules, las verdes y las rojas.
 - Revisar cómo cambiar el aterrizaje para que apague los motores más abajo de lo normal (aprox 1 metro)
 - Juntar la red entrenada por Sam e integrarla para usarla con el aterrizaje.
-- Entrenar evitar los tubis naranjas (puede ser con una red entrenada.
+- Entrenar avanzar y evitar los tubos naranjas (puede ser con una red entrenada).
+- Mecanismo para liberación del kit
+- Mecanismo para pintar en el pizarron.
+- DEFINIR EL ORDEN DE PRIORIDAD DE LAS MISIONES QUE VAMOS A REALIZAR. (NO INTENTAR HACER TODO A LA VEZ, ES POCO A POCO)
+- Para la mision del pizarron, ver como identifiar arucos.
+
 
 ---
 
