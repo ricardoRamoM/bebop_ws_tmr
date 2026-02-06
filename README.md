@@ -38,7 +38,9 @@ PENDIENTES
 - Mecanismo para pintar en el pizarron.
 - DEFINIR EL ORDEN DE PRIORIDAD DE LAS MISIONES QUE VAMOS A REALIZAR. (NO INTENTAR HACER TODO A LA VEZ, ES POCO A POCO)
 - Para la mision del pizarron, ver como identifiar arucos.
-
+- Si bien si movemos el dron con odometria, tenemos que hacer que avance exactamente solo la distancia que queremos o sea muy cercano. Se me ocurre que se puede hacer con control PID en estos instantes.
+- Codigo para hacer que avance y mantenga la altura para pasar las ventanas
+- Recubrir las ventanas con las cintas del color actual para hacer las pruebas.
 
 ---
 
